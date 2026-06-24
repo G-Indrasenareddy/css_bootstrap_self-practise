@@ -1,0 +1,23 @@
+Bootstrap components / component = means piece of reusable styles
+=======================
+alert
+button
+card
+carousel
+form
+table
+list
+navbar
+progress
+pagination
+spinner
+toast
+=========================
+Bootstrap is based on grid
+grid vs flex
+what is grid? ==> grid means rows and columns
+
+.row{}
+.col{}
+
+Each row divides into 12 columns.

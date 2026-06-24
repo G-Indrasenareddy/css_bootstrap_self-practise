@@ -1,0 +1,28 @@
+/* .margin{
+    width: 200px;
+    margin: 10px 5px 10px 5px;
+} */
+
+/* .box{
+    border: 5px solid blue;
+    width: 200px;
+    margin:20px;
+} */
+
+/* div{
+    width: 300px;;
+    border: 2px solid yellow;
+    margin:auto;
+} */
+
+/* .card{
+    border: 1px solid gray;
+    margin-bottom: 20px;
+    padding: 10px;
+} */
+
+.card{
+    border:2px solid orange;
+    margin-bottom:20px;
+    padding:30px;
+}

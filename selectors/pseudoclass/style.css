@@ -1,0 +1,17 @@
+/* p:first-child{
+    color: brown;
+} */
+
+/* div p:last-child{
+    color:aqua;
+} */
+
+div p:not(.special-paragraph){
+    color: blueviolet;
+}
+/* input:enabled{
+    border: 2px solid blue;
+} */
+button:disabled{
+    cursor: not-allowed;
+}

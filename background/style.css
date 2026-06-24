@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    font-size: 50px;
+    color:brown;
+    background-image: url("https://sm.ign.com/ign_in/cover/g/godzilla-2/godzilla-2_w6vw.jpg");
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: center;
+    background-attachment: fixed;
+}

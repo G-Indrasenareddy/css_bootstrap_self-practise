@@ -1,0 +1,11 @@
+h1::before{
+    content:"Let's Learn ";
+    color:red;
+}
+h2::after{
+    content:" Pseudo elements";
+    color:yellow;
+}
+p::selection{
+    background-color: greenyellow;
+}

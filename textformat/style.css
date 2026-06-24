@@ -1,0 +1,23 @@
+/* h1{
+    text-align: center;
+}
+div{
+    text-shadow: 1px 1px 3px red;
+} */
+
+
+ /* h1{
+    text-align: center;
+}
+div{
+    white-space: normal;
+}  */
+
+/* Text-overflow */
+
+p{
+    width: 300px;
+    white-space: nowrap;
+    overflow:hidden;
+    text-overflow: ellipsis;
+}

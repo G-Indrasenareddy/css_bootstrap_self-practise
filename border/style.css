@@ -1,0 +1,44 @@
+/* div{
+    border-style: dashed;
+} */
+
+/* div{
+    border:2px;
+} */
+
+/* div{
+    border:2px solid blue;
+} */
+
+/* div{
+    border:5px dashed brown;
+} */
+
+/* div{
+    border-style: double;
+} */
+
+/* div{
+    border-color: brown;
+} */
+
+/* div{
+    border: 2px solid blue;
+    border-radius: 10px;
+} */
+
+/* Creating a circle */
+/* div{
+    border-right: 10px solid green;
+} */
+
+/* .border{
+    border-radius: 50%;
+} */
+
+.card{
+    border: 2px solid gray;
+    border-radius: 10px;
+    padding: 15px;
+    width: 490px;
+}
